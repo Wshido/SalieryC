@@ -1,0 +1,51 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Wshido\\Desktop\\Alice\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1B7804F7-616D-4B8F-B54D-681DF0C1B5A6}|Alice\\Alice.vcxproj|C:\\Users\\Wshido\\Desktop\\Alice\\Alice\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{1B7804F7-616D-4B8F-B54D-681DF0C1B5A6}|Alice\\Alice.vcxproj|solutionrelative:Alice\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "main.cpp",
+              "DocumentMoniker": "C:\\Users\\Wshido\\Desktop\\Alice\\Alice\\main.cpp",
+              "RelativeDocumentMoniker": "Alice\\main.cpp",
+              "ToolTip": "C:\\Users\\Wshido\\Desktop\\Alice\\Alice\\main.cpp",
+              "RelativeToolTip": "Alice\\main.cpp",
+              "ViewState": "AgIAAEsAAAAAAAAAAAAAwFwAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-05-29T14:11:02.749Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{40ea2e6b-2121-4bb8-a43e-c83c04b51041}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

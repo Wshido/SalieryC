@@ -1,0 +1,7 @@
+Mics: 4
+  [0] 
+  [1] 
+  [2] 
+  [3] Headset Microphone (Oculus Virtual Audio Device)
+Recording 10 phrases x 5...
+Device: 48000Hz 2ch tag=3

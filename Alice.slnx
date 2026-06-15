@@ -1,0 +1,8 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="Alice/Alice.vcxproj" Id="1b7804f7-616d-4b8f-b54d-681df0c1b5a6" />
+  <Project Path="Speech/Speech.vcxproj" Id="a2b3c4d5-e6f7-8901-abcd-ef0123456789" />
+</Solution>
